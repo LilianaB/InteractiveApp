@@ -1,11 +1,12 @@
-package com.bertha.interactivestory;
+package com.bertha.interactivestory.ui;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
+
+import com.bertha.interactivestory.R;
+import com.bertha.interactivestory.model.Page;
 
 
 public class StoryActivity extends ActionBarActivity {
